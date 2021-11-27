@@ -1,1 +1,1 @@
-# shakespere-Trabslator
+# shakespere-Translator
